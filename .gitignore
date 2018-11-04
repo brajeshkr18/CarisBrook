@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/Carisbrook/obj/Debug
+/Carisbrook/bin
+/DemoCore/obj
+/DemoCore/bin/Debug
+/DemoCore/.vs/Demo.Core/v15
+/DemoModel/bin/Debug
+/DemoModel/obj
+/DemoService/bin/Debug
+/DemoService/obj
