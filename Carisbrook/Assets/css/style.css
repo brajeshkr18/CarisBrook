@@ -189,7 +189,7 @@ label {
 }
 
 .navbar-default .navbar-brand label {
-    color: #37bf91;
+    color: #005596;
     display: block;
     font-size: 10px;
     text-align: center;
@@ -232,11 +232,11 @@ label {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #37BF91;
+    background-color: #005596;
 }
 
 .navbar-default .navbar-nav>.active>a:before {
-    background: #37BF91;
+    background: #005596;
     transform: translateX(0);
     -webkit-transform: translateX(0);
     -moz-transform: translateX(0);
@@ -598,7 +598,7 @@ h3.tittle span {
 
 .services .tittle-style:after {
     left: 9%;
-    background: #37BF91;
+    background: #005596;
 }
 
 .services .tittle-style:before {
@@ -608,7 +608,7 @@ h3.tittle span {
 
 .services-grids-w3l span {
     font-size: 40px;
-    color: #37BF91;
+    color: #005596;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
     transition: .5s all;
@@ -900,12 +900,12 @@ h3.tittle span {
 
 .nbs-flexisel-nav-left {
     left: 0;
-    background: url(../images/right.png) no-repeat 10px 11px #37BF91;
+    background: url(../images/right.png) no-repeat 10px 11px #005596;
 }
 
 .nbs-flexisel-nav-right {
     right: 0;
-    background: url(../images/left.png) no-repeat 14px 12px #37BF91;
+    background: url(../images/left.png) no-repeat 14px 12px #005596;
 }
 
 
@@ -980,7 +980,7 @@ h3.tittle span {
 
 a.button-style {
     color: #fff;
-    background: #37BF91;
+    background: #005596;
     border: none;
     padding: 10px 31px;
     letter-spacing: 1px;
@@ -1070,7 +1070,7 @@ a.button-style:hover {
 }
 
 .botttom-nav-allah ul li a:hover {
-    color: #37BF91;
+    color: #005596;
 }
 
 .footer-middle-thanks h2 {
@@ -1263,7 +1263,7 @@ ul.short_ls li a {
 }
 
 .about_bottom_left h4 span {
-    color: #37BF91;
+    color: #005596;
 }
 
 .about_bottom_left p {
@@ -1277,7 +1277,7 @@ ul.short_ls li a {
 }
 
 .banner_bottom_left h4 span {
-    color: #37BF91;
+    color: #005596;
 }
 
 .about2-info {
@@ -1319,7 +1319,7 @@ li.aitsaitsresumewthreeli-1 {
 
 .work-info h4 {
     font-size: 1.2em;
-    background: #37BF91;
+    background: #005596;
     display: inline-block;
     padding: 12px 30px;
     color: #fff;
@@ -1335,7 +1335,7 @@ li.aitsaitsresumewthreeli-1 {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent #37BF91;
+    border-color: transparent transparent transparent #005596;
 }
 
 .work-info h5 {
@@ -1387,7 +1387,7 @@ li.aitsaitsresumewthreeli-1 {
 }
 
 .team h4 {
-    color: #37BF91;
+    color: #005596;
     font-size: 22px;
 }
 
@@ -1488,7 +1488,7 @@ label.header {
 .register-form input[type="submit"] {
     outline: none;
     color: #FFF;
-    background: #37BF91;
+    background: #005596;
     color: #fff;
     border: none;
     padding: 11px 40px;
@@ -1596,7 +1596,7 @@ label.header {
 }
 
 .contact-text1 h4 span {
-    color: #37BF91;
+    color: #005596;
 }
 
 .contact-text1 p {
@@ -1778,7 +1778,7 @@ label.header {
 }
 
 input.checkbox {
-    background: #37BF91;
+    background: #005596;
     cursor: pointer;
 }
 
@@ -1908,8 +1908,8 @@ input[type="checkbox"] {
 }
 
 .register-forming p a {
-    color: #37BF91;
-    border-bottom: 1px dotted #37BF91;
+    color: #005596;
+    border-bottom: 1px dotted #005596;
     font-weight: 600;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -2007,7 +2007,7 @@ input[type="checkbox"] {
 
 h3.icon-subheading {
     font-size: 28px;
-    color: #37BF91 !important;
+    color: #005596 !important;
     margin: 30px 0 15px;
     font-weight: 600;
     letter-spacing: 2px;
@@ -2207,7 +2207,7 @@ h3.m_1 {
 h3.hdg,
 h3.bars {
     margin-bottom: 1em;
-    color: #37BF91;
+    color: #005596;
     font-weight: 600;
     font-size: 30px;
     letter-spacing: 2px;
