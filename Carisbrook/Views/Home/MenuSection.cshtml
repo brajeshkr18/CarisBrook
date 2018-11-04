@@ -1,4 +1,10 @@
-﻿<ul class="nav navbar-nav" id="ulmenulist">
+﻿<style>
+    li:hover > ul {
+        /* On hover, display the next level's menu */
+        display: inline;
+    }
+</style>
+<ul class="nav navbar-nav" id="ulmenulist">
     <li class="active">
         <a href="@Url.Action("Index", "Home")" class="effect-3">Home</a>
     </li>
